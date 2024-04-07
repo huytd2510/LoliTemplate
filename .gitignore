@@ -1,0 +1,7 @@
+~/.yarn/
+template/.yarn/
+**/.DS_Store
+**/build/
+**/node_modules/
+**/.idea/
+**/Pods/
