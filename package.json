@@ -4,5 +4,10 @@
   "description": "React Native Template",
   "repository": "https://github.com/huytd2510/LoliTemplate",
   "author": "huytd2510@gmail.com",
-  "license": "MIT"
+  "license": "MIT",
+  "main": "post-init.script.js",
+  "dependencies": {
+    "kleur": "^4.1.4",
+    "prompts": "^2.4.1"
+  }
 }
